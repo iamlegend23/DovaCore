@@ -1,0 +1,11 @@
+{
+	"title"		:	"Dova Core",
+	"type"		:	"npc",
+	"tags"		:	[ "scenic", "cartoon" ],
+	"ignore"	:
+	[
+		"*.md",
+		"*.git*",
+		"*.txt"
+	]
+}
